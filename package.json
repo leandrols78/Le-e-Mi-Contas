@@ -1,0 +1,17 @@
+{
+  "name": "lemi-controle-contas",
+  "version": "2.0.0",
+  "description": "Le & Mi Controle de Contas Pessoais - App Android",
+  "scripts": {
+    "android:init": "npx cap add android",
+    "android:sync": "npx cap sync android",
+    "android:open": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/android": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  }
+}

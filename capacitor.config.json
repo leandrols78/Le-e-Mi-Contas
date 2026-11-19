@@ -1,0 +1,6 @@
+{
+  "appId": "com.lemi.controlecontas",
+  "appName": "Le & Mi Contas",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
